@@ -1,0 +1,11 @@
+{
+  "name": "punto3",
+  "version": "1.0.0",
+  "description": "Evaluación Node",
+  "main": "rutinaPepe.js",
+  "scripts": {
+    "start": "rutinaPepe.js"
+  },
+  "author": "Héctor Enrique Morales Hernández",
+  "license": "ISC"
+}
